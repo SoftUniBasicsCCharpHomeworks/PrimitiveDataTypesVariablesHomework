@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\19GameOfBits\bin\Debug\19GameOfBits.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\19GameOfBits\bin\Debug\19GameOfBits.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\19GameOfBits\bin\Debug\19GameOfBits.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\19GameOfBits\obj\Debug\19GameOfBits.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\19GameOfBits\obj\Debug\19GameOfBits.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\19GameOfBits\obj\Debug\19GameOfBits.pdb

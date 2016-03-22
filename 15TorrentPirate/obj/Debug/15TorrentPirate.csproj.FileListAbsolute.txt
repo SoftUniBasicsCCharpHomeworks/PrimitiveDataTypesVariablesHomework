@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\15TorrentPirate\bin\Debug\15TorrentPirate.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\15TorrentPirate\obj\Debug\15TorrentPirate.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\15TorrentPirate\bin\Debug\15TorrentPirate.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\15TorrentPirate\bin\Debug\15TorrentPirate.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\15TorrentPirate\obj\Debug\15TorrentPirate.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\15TorrentPirate\obj\Debug\15TorrentPirate.pdb

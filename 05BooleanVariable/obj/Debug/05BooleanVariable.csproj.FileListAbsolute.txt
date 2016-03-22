@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\05BooleanVariable\bin\Debug\05BooleanVariable.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\05BooleanVariable\obj\Debug\05BooleanVariable.pdb

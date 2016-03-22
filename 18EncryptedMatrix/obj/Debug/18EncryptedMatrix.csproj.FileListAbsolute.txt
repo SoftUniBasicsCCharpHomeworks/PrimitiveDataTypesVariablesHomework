@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\18EncryptedMatrix\bin\Debug\18EncryptedMatrix.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\18EncryptedMatrix\obj\Debug\18EncryptedMatrix.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\18EncryptedMatrix\bin\Debug\18EncryptedMatrix.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\18EncryptedMatrix\bin\Debug\18EncryptedMatrix.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\18EncryptedMatrix\obj\Debug\18EncryptedMatrix.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\18EncryptedMatrix\obj\Debug\18EncryptedMatrix.pdb

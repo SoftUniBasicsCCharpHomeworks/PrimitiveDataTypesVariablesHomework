@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\FloatOrDouble\obj\Debug\02FloatOrDouble.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

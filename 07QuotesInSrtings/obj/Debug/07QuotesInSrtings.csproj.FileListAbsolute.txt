@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\07QuotesInSrtings\bin\Debug\07QuotesInSrtings.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\07QuotesInSrtings\bin\Debug\07QuotesInSrtings.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\07QuotesInSrtings\bin\Debug\07QuotesInSrtings.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\07QuotesInSrtings\obj\Debug\07QuotesInSrtings.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\07QuotesInSrtings\obj\Debug\07QuotesInSrtings.pdb

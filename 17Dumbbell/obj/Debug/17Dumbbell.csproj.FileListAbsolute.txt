@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\17Dumbbell\bin\Debug\17Dumbbell.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\17Dumbbell\bin\Debug\17Dumbbell.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\17Dumbbell\bin\Debug\17Dumbbell.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\17Dumbbell\obj\Debug\17Dumbbell.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\17Dumbbell\obj\Debug\17Dumbbell.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\17Dumbbell\obj\Debug\17Dumbbell.pdb

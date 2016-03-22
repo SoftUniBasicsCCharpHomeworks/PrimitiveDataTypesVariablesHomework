@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\16BasketBattle\bin\Debug\16BasketBattle.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\16BasketBattle\bin\Debug\16BasketBattle.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\16BasketBattle\bin\Debug\16BasketBattle.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\16BasketBattle\obj\Debug\16BasketBattle.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\16BasketBattle\obj\Debug\16BasketBattle.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\16BasketBattle\obj\Debug\16BasketBattle.pdb

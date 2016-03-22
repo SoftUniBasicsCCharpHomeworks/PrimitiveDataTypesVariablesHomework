@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\09Exchange Variable Values\bin\Debug\09Exchange Variable Values.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\09Exchange Variable Values\bin\Debug\09Exchange Variable Values.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\09Exchange Variable Values\bin\Debug\09Exchange Variable Values.pdb
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\09Exchange Variable Values\obj\Debug\09Exchange Variable Values.exe
+c:\users\pc\documents\visual studio 2015\Projects\PrimitiveDataTypesVariablesHomework\09Exchange Variable Values\obj\Debug\09Exchange Variable Values.pdb
